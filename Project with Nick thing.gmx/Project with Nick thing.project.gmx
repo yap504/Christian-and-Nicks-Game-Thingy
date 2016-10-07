@@ -12,8 +12,8 @@
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\o_Player</object>
-    <object>objects\o_Bullet</object>
+    <object>objects\obj_Player</object>
+    <object>objects\obj_Bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
